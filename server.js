@@ -138,7 +138,7 @@ server.post('/data/sendData', (req, res) => {
 
 
 
-server.use(pause(1000));
+server.use(pause(300));
 router.db._.id = 'ID'; // set id option here
 server.db = router.db;
 
