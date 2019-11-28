@@ -3456,6 +3456,1532 @@
           "minRows": 10
         }
       }
+    },
+    {
+      "ID": 20,
+      "Name": "1234567",
+      "Type": "Attributes",
+      "LastUpdated": "2019-09-16T10:53:33.0220985+02:00",
+      "Body": {
+        "dashboard": [
+          {
+            "id": "labelTemplatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 0,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Template name",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Template name",
+              "key": "labelTemplatename",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Templatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 0,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": "1234567",
+              "key": "Templatename",
+              "placeholder": "Template name",
+              "readonly": true,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelTimestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 1,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Time stamp",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Time stamp",
+              "key": "labelTimestamp",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Timestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 1,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "Timestamp",
+              "placeholder": "Time stamp",
+              "readonly": false,
+              "valueType": "System.DateTime",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "datetime-local"
+            }
+          }
+        ],
+        "gridsterOptions": {
+          "bgColor": "#153110",
+          "minRows": 10
+        },
+        "properties": {}
+      }
+    },
+    {
+      "ID": 21,
+      "Name": "7654321",
+      "Type": "Attributes",
+      "LastUpdated": "2019-09-16T10:53:33.0220985+02:00",
+      "Body": {
+        "dashboard": [
+          {
+            "id": "labelTemplatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 0,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Template name",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Template name",
+              "key": "labelTemplatename",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Templatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 0,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": "7654321",
+              "key": "Templatename",
+              "placeholder": "Template name",
+              "readonly": true,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelTimestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 1,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Time stamp",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Time stamp",
+              "key": "labelTimestamp",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Timestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 1,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "Timestamp",
+              "placeholder": "Time stamp",
+              "readonly": false,
+              "valueType": "System.DateTime",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "datetime-local"
+            }
+          }
+        ],
+        "gridsterOptions": {
+          "bgColor": "#153110",
+          "minRows": 10
+        },
+        "properties": {}
+      }
+    },
+    {
+      "ID": 22,
+      "Name": "wwwwww",
+      "Type": "Attributes",
+      "LastUpdated": "2019-09-16T10:53:33.0220985+02:00",
+      "Body": {
+        "dashboard": [
+          {
+            "id": "labelTemplatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 0,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Template name",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Template name",
+              "key": "labelTemplatename",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Templatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 0,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": "wwwwww",
+              "key": "Templatename",
+              "placeholder": "Template name",
+              "readonly": true,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelTimestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 1,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Time stamp",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Time stamp",
+              "key": "labelTimestamp",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Timestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 1,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "Timestamp",
+              "placeholder": "Time stamp",
+              "readonly": false,
+              "valueType": "System.DateTime",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "datetime-local"
+            }
+          }
+        ],
+        "gridsterOptions": {
+          "bgColor": "#153110",
+          "minRows": 10
+        },
+        "properties": {}
+      }
+    },
+    {
+      "ID": 23,
+      "Name": "qwert",
+      "Type": "Attributes",
+      "LastUpdated": "2019-09-16T10:53:33.0220985+02:00",
+      "Body": {
+        "dashboard": [
+          {
+            "id": "labelTemplatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 0,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Template name",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Template name",
+              "key": "labelTemplatename",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Templatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 0,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": "qwert",
+              "key": "Templatename",
+              "placeholder": "Template name",
+              "readonly": true,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelTimestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 1,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Time stamp",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Time stamp",
+              "key": "labelTimestamp",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Timestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 1,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "Timestamp",
+              "placeholder": "Time stamp",
+              "readonly": false,
+              "valueType": "System.DateTime",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "datetime-local"
+            }
+          }
+        ],
+        "gridsterOptions": {
+          "bgColor": "#153110",
+          "minRows": 10
+        },
+        "properties": {}
+      }
+    },
+    {
+      "ID": 24,
+      "Name": "444444",
+      "Type": "Attributes",
+      "LastUpdated": "2019-09-16T10:53:33.0220985+02:00",
+      "Body": {
+        "dashboard": [
+          {
+            "id": "labelTemplatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 0,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Template name",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Template name",
+              "key": "labelTemplatename",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Templatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 0,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": "444444",
+              "key": "Templatename",
+              "placeholder": "Template name",
+              "readonly": true,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelTimestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 1,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Time stamp",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Time stamp",
+              "key": "labelTimestamp",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Timestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 1,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "Timestamp",
+              "placeholder": "Time stamp",
+              "readonly": false,
+              "valueType": "System.DateTime",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "datetime-local"
+            }
+          }
+        ],
+        "gridsterOptions": {
+          "bgColor": "#153110",
+          "minRows": 10
+        },
+        "properties": {}
+      }
+    },
+    {
+      "ID": 25,
+      "Name": "77777777",
+      "Type": "EventFrame",
+      "LastUpdated": "2019-09-16T10:53:33.0220985+02:00",
+      "Body": {
+        "properties": {
+          "eventFrameTemplate": {
+            "ServerName": "Test server 1",
+            "DatabaseName": "Test database 1",
+            "EventFrameTemplateName": "Test event frame template 1"
+          }
+        },
+        "dashboard": [
+          {
+            "id": "labelTemplatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 0,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Template name",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Template name",
+              "key": "labelTemplatename",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Templatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 0,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": "77777777",
+              "key": "Templatename",
+              "placeholder": "Template name",
+              "readonly": true,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelEventframetemplate",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 1,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Event frame template",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Event frame template",
+              "key": "labelEventframetemplate",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Eventframetemplate",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 1,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": "Test event frame template 1",
+              "key": "Eventframetemplate",
+              "placeholder": "Event frame template",
+              "readonly": true,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelName",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 2,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Event name",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Event name",
+              "key": "labelName",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Name",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 2,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "Name",
+              "placeholder": "Name",
+              "readonly": false,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelStartTime",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 3,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Start time",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Start time",
+              "key": "labelStartTime",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "StartTime",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 3,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "StartTime",
+              "placeholder": "StartTime",
+              "readonly": false,
+              "valueType": "System.DateTime",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "datetime-local"
+            }
+          },
+          {
+            "id": "labelEndTime",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 4,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "End time",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "End time",
+              "key": "labelEndTime",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "EndTime",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 4,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "EndTime",
+              "placeholder": "EndTime",
+              "readonly": false,
+              "valueType": "System.DateTime",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "datetime-local"
+            }
+          },
+          {
+            "id": "labelDescription",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 5,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Description",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Description",
+              "key": "labelDescription",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Description",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 5,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": false,
+              "isRemovable": false,
+              "value": null,
+              "key": "Description",
+              "placeholder": "Description",
+              "readonly": false,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "attr%labelAttribute_1",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 7,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Attribute_1",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Attribute_1",
+              "key": "attr%labelAttribute_1",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "attr%Attribute_1",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 7,
+              "cols": 1,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "checkbox",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": null,
+              "key": "attr%Attribute_1",
+              "valueType": "System.Boolean"
+            }
+          }
+        ],
+        "gridsterOptions": {
+          "bgColor": "#153110",
+          "minRows": 10
+        }
+      }
+    },
+    {
+      "ID": 26,
+      "Name": "qwerttt",
+      "Type": "Attributes",
+      "LastUpdated": "2019-09-16T10:53:33.0220985+02:00",
+      "Body": {
+        "dashboard": [
+          {
+            "id": "labelTemplatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 0,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Template name",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Template name",
+              "key": "labelTemplatename",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Templatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 0,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": "qwerttt",
+              "key": "Templatename",
+              "placeholder": "Template name",
+              "readonly": true,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelTimestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 1,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Time stamp",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Time stamp",
+              "key": "labelTimestamp",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Timestamp",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 1,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "Timestamp",
+              "placeholder": "Time stamp",
+              "readonly": false,
+              "valueType": "System.DateTime",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "datetime-local"
+            }
+          }
+        ],
+        "gridsterOptions": {
+          "bgColor": "#153110",
+          "minRows": 10
+        },
+        "properties": {}
+      }
+    },
+    {
+      "ID": 27,
+      "Name": "werwerwerw",
+      "Type": "EventFrame",
+      "LastUpdated": "2019-09-16T10:53:33.0220985+02:00",
+      "Body": {
+        "properties": {
+          "eventFrameTemplate": {
+            "ServerName": "Test server 2",
+            "DatabaseName": "Test database 2",
+            "EventFrameTemplateName": "Test event frame template 2"
+          }
+        },
+        "dashboard": [
+          {
+            "id": "labelTemplatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 0,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Template name",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Template name",
+              "key": "labelTemplatename",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Templatename",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 0,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": "werwerwerw",
+              "key": "Templatename",
+              "placeholder": "Template name",
+              "readonly": true,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelEventframetemplate",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 1,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Event frame template",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Event frame template",
+              "key": "labelEventframetemplate",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Eventframetemplate",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 1,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": "Test event frame template 2",
+              "key": "Eventframetemplate",
+              "placeholder": "Event frame template",
+              "readonly": true,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelName",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 2,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Event name",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Event name",
+              "key": "labelName",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Name",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 2,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "Name",
+              "placeholder": "Name",
+              "readonly": false,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "labelStartTime",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 3,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Start time",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Start time",
+              "key": "labelStartTime",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "StartTime",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 3,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "StartTime",
+              "placeholder": "StartTime",
+              "readonly": false,
+              "valueType": "System.DateTime",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "datetime-local"
+            }
+          },
+          {
+            "id": "labelEndTime",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 4,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "End time",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "End time",
+              "key": "labelEndTime",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "EndTime",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 4,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": false,
+              "value": null,
+              "key": "EndTime",
+              "placeholder": "EndTime",
+              "readonly": false,
+              "valueType": "System.DateTime",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "datetime-local"
+            }
+          },
+          {
+            "id": "labelDescription",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 5,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Description",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Description",
+              "key": "labelDescription",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "Description",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 5,
+              "cols": 7,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "input",
+              "name": "",
+              "label": "",
+              "isRequired": false,
+              "isRemovable": false,
+              "value": null,
+              "key": "Description",
+              "placeholder": "Description",
+              "readonly": false,
+              "valueType": "System.String",
+              "maxValue": "",
+              "minValue": "",
+              "inputType": "text"
+            }
+          },
+          {
+            "id": "attr%labelAttribute_1",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 0,
+              "y": 7,
+              "cols": 4,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "label",
+              "name": "",
+              "label": "Attribute_1",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": "Attribute_1",
+              "key": "attr%labelAttribute_1",
+              "useValue": "label",
+              "backgroundColor": "#d1d07e"
+            }
+          },
+          {
+            "id": "attr%Attribute_1",
+            "piafAttribute": {
+              "name": null,
+              "path": "not specified",
+              "type": null
+            },
+            "gridster": {
+              "x": 5,
+              "y": 7,
+              "cols": 1,
+              "rows": 1
+            },
+            "element": {
+              "componentKey": "checkbox",
+              "name": "",
+              "label": "",
+              "isRequired": true,
+              "isRemovable": true,
+              "value": null,
+              "key": "attr%Attribute_1",
+              "valueType": "System.Boolean"
+            }
+          }
+        ],
+        "gridsterOptions": {
+          "bgColor": "#153110",
+          "minRows": 10
+        }
+      }
     }
   ],
   "comments": [
